@@ -7,13 +7,9 @@ This repository contains code and resources for the ACL 2025 paper on LLMs and p
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/llms_partisan_inference.git
-    cd llms_partisan_inference
-    ```
+1. Clone the repository.
 
-2. (Recommended) Create and activate a virtual environment and install dependencies: llama-cpp-python, openai, pandas
+2. (Recommended) Create and activate a virtual environment and install dependencies: llama-cpp-python, openai, pandas.
 
 ## Usage
 
